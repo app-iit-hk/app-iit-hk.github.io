@@ -1,4 +1,5 @@
 # [iOS UniversalLink](https://medium.com/zrealm-ios-dev/universal-links-新鮮事-12c5026da33d)
+> apple-app-site-association（AASA）檔案是用來支援 iOS Universal Links，讓網站連結能直接開啟 App。
 
 - [先確定檔案讀不讀得到](https://blog.dreambreakerx.com/2018/09/universal-links/)
 > ```html
