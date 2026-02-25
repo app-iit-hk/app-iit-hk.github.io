@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "4Q5CYDAG3B.idv.william.Example2",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
