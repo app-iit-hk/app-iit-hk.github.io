@@ -1,14 +1,21 @@
 # [iOS UniversalLink](https://medium.com/zrealm-ios-dev/universal-links-新鮮事-12c5026da33d)
 
 - [先確定檔案讀不讀得到](https://blog.dreambreakerx.com/2018/09/universal-links/)
-> [https://app-iit-hk.github.io/.well-known/apple-app-site-association](https://app-iit-hk.github.io/.well-known/apple-app-site-association)
+> ```html
+> https://app-iit-hk.github.io/.well-known/apple-app-site-association
+> ```
 
-- [也可以用指令測試](https://tom8u4286.medium.com/ios-universal-link實作-51b7ec277f3a )
+- [也可以用指令測試](https://tom8u4286.medium.com/ios-universal-link實作-51b7ec277f3a)
 > ```bash
 > sudo swcutil dl -d app-iit-hk.github.io --verbose
 > ```
 
-- 檢查Apple CDN
+- [檢查Apple's CDN](https://support.apple.com/zh-tw/101555)
 > ```bash
 > curl https://app-site-association.cdn-apple.com/a/v1/app-iit-hk.github.io
+> ```
+
+- [也有套件可以測試](https://st-tech.github.io/universal-links-test/)
+> ```html
+> https://github.com/st-tech/universal-links-test
 > ```
