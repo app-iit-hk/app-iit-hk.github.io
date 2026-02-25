@@ -4,6 +4,6 @@
 > [apple-app-site-association](https://app-iit-hk.github.io)
 
 - [也可以用指令測試](https://tom8u4286.medium.com/ios-universal-link實作-51b7ec277f3a )
-```bash
-sudo swcutil dl -d darktt.github.io
-```
+> ```bash
+> sudo swcutil dl -d darktt.github.io
+> ```
