@@ -1,4 +1,4 @@
-# [iOS UniversalLink (apple-app-site-association)](https://medium.com/zrealm-ios-dev/universal-links-新鮮事-12c5026da33d)
+# [iOS UniversalLink](https://medium.com/zrealm-ios-dev/universal-links-新鮮事-12c5026da33d)
 
 - [先確定檔案讀不讀得到](https://blog.dreambreakerx.com/2018/09/universal-links/)
 > [apple-app-site-association](https://app-iit-hk.github.io/.well-known/apple-app-site-association)
