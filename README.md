@@ -5,7 +5,7 @@
 
 - [也可以用指令測試](https://tom8u4286.medium.com/ios-universal-link實作-51b7ec277f3a )
 > ```bash
-> sudo swcutil dl -d app-iit-hk.github.io
+> sudo swcutil dl -d app-iit-hk.github.io --verbose
 > ```
 
 - 檢查Apple CDN
