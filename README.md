@@ -21,7 +21,7 @@
 > https://github.com/st-tech/universal-links-test
 > ```
 
-- 也可以參考Google的設定值
+- [也可以參考Google的設定值](https://branch.io/resources/aasa-validator/)
 > ```html
 > https://www.google.com/apple-app-site-association
 > ```
