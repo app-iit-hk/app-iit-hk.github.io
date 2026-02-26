@@ -20,3 +20,8 @@
 > ```html
 > https://github.com/st-tech/universal-links-test
 > ```
+
+- 也可以參考Google的設定值
+> ```html
+> https://www.google.com/apple-app-site-association
+> ```
